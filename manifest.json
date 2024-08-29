@@ -1,0 +1,16 @@
+{"manifest_version": 2,
+    "name": "Form Filler",
+    "description": "Form Filler",
+    "homepage_url": "https://mail.google.com/mail/u/1/?ogbl#inbox",
+    "version": "1.0",
+    "browser_action": {
+        "default_title": "Click me",
+        "default_popup": "index.html",
+  "default_icon": "workday logo.png"
+    },
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ]
+}
