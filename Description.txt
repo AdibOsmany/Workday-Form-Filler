@@ -1,3 +1,0 @@
-- Utilized JSON and HTML to design and implement a bespoke Google Chrome extension, streamlining the internship application process through a one-click functionality.
-- Designed the extension to be compatible with any internship application that was supplied, provided that the company-specific details had been programmed beforehand using JavaScript.
-- Acquired proficiency in additional technologies, such as JSON and JavaScript, during the project's development, expanding technical skill set.
